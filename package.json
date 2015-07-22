@@ -1,0 +1,19 @@
+{
+  "name": "AngularCB",
+  "version": "1.0.0",
+  "description": "Expo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Angular"
+  ],
+  "author": "Luis Felipe",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^1.8.2",
+    "gulp": "^3.8.10",
+    "gulp-watch": "^3.0.0"
+  }
+}
